@@ -3,10 +3,14 @@
 
 isto é um site portifolio.. UAU
 
+### **o que você ira encontrar:**
+
+um portifolio
+
 ## modulos
 * apresentação
 * projetos
 * conclusão 
-### **o que você ira encontrar:**
 
-um portifolio
+1. um pouco sobre mim
+2. alguns projetos pessoais e profissionais
