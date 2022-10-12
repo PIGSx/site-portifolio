@@ -19,6 +19,7 @@ um portifolio
 2. alguns projetos pessoais e profissionais
 
 
+## informações pessoais: 
 Propiedade | Descrição
 ---------- | ---------
 name | pigs
